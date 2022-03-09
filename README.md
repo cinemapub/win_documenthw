@@ -1,2 +1,2 @@
-# win_documenthw
+# winhw
 Document your PC hardware: serial nr, RAM, CPU, ...
